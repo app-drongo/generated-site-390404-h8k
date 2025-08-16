@@ -1,2 +1,38 @@
-# generated-site-390404-h8k
-AI-generated website: Build an online store for professional shoes...
+# 68a0d739a9881d4368f95e1a
+
+This Next.js website was generated using AI enhancement with multi-page support.
+
+## Pages
+
+- **Home** (/home): 4 components
+- **Shop** (/shop): 1 components
+- **Product** (/product): 1 components
+- **Cart** (/cart): 1 components
+- **Checkout** (/checkout): 1 components
+- **About** (/about): 1 components
+- **Contact** (/contact): 1 components
+- **Blog** (/blog): 1 components
+- **BlogPost** (/blog-post): 1 components
+
+## Statistics
+
+- **Total Pages**: 9
+- **Total Components**: 12
+- **Generated**: 2025-08-16T19:09:37.143Z
+
+## Getting Started
+
+1. Install dependencies:
+```bash
+npm install
+```
+
+2. Run development server:
+```bash
+npm run dev
+```
+
+3. Open [http://localhost:3000](http://localhost:3000)
+
+---
+Generated with AI Website Builder
